@@ -10,7 +10,7 @@ As a result, the number of suggestions can not exceed that number unless you are
 
 Algolia will soon provide a newly hosted version of this service along the other Analytics services.
 
-In the meantime, if you have any question regarding this feature, please feel free to reach out to support@algolia.com mentioning that you have read this notice.
+In the meantime, if you have any question regarding this feature, please feel free to reach out to [Algolia Support Team](https://alg.li/support) mentioning that you have read this notice.
 
 # Query suggestions
 
